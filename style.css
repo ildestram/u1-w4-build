@@ -147,6 +147,11 @@ nav {
     cursor: pointer;
     transition: all 0.3s ease-out;
     color:rgb(50, 161, 178);
+    transform: scale(0.8);
+}
+
+.card:active {
+    transform: scale(1.2);
 }
 
 .listings .card-title {

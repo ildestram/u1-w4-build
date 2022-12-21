@@ -212,6 +212,11 @@ span {
     color: white;
 }
 
+.card-title img {
+    width: 20px;
+    height: 20px;
+}
+
 
 
 

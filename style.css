@@ -12,6 +12,7 @@
 ul li {
     list-style: none;
     display: inline-block;
+    cursor: pointer;
 }
 
 .container-items h2 {
